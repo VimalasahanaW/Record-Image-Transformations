@@ -71,9 +71,9 @@ Read the input image in color mode.
 
 ## Program
 
-### Developed By: OVIYA N
+### Developed By: VIMALA SAHANA W
 
-### Register No: 212223040140
+### Register No: 212223040241
 
 ```
 import cv2
